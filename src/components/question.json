@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "question" : "What is the capital of Tamil Nadu",
+        "options" : ["Chennai","Coimbatore","Madurai"],
+        "correctOption" : "Chennai" 
+    },
+    {
+        "id": 2,
+        "question" : "What is the capital of Kerala",
+        "options" : ["Cochin","Thiruvananthapuram","Ernakulam"],
+        "correctOption" : "Thiruvananthapuram" 
+    },
+    {
+        "id": 3,
+        "question" : "What is the capital of Karnataka",
+        "options" : ["Mysuru","Kolar","Banglore"],
+        "correctOption" : "Banglore" 
+    },
+    {
+        "id": 4,
+        "question" : "What is the capital of Gujarat",
+        "options" : ["Ahmedabad","Gandhinagar","Kalol"],
+        "correctOption" : "Gandhinagar" 
+    }
+]
